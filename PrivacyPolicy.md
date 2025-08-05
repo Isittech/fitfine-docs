@@ -1,33 +1,31 @@
-🔐 Privacy Policy
+# 🔐 Privacy Policy
 
 This app respects your privacy and is committed to protecting your personal data.
 
-We collect only minimal personal information, such as your preferences and activity logs, to provide you with a better, personalized user experience.
+We collect minimal personal information such as your preferences and activity logs to provide a better user experience.
 
-##Firebase Usage
+## Firebase Usage
 
-We use Firebase services (e.g., Authentication, Firestore, Crashlytics, Analytics), which may collect device and usage data to help us improve app stability and performance.
-For more details, please refer to Firebase’s privacy policy:
+We use Firebase services (e.g., Authentication, Firestore, Crashlytics, Analytics) which may collect device data.  
+Please refer to Firebase’s privacy policy:  
 🔗 https://firebase.google.com/support/privacy
 
-##AI Tools
+## AI Tools
 
-Certain features, such as personalized workout or diet suggestions, are powered by AI tools including ChatGPT and Google AI.
-These AI-generated recommendations are created automatically and should be considered informational only — not professional medical advice.
+Some features in this app, such as personalized workout or diet suggestions, may be powered by AI tools including ChatGPT and Google AI.  
+These suggestions are generated automatically and should not be considered medical or professional advice.
 
-##Advertisements
+## Advertisements
 
-FitFine displays banner and interstitial ads to support free app usage. These ads may use cookies or device identifiers to deliver personalized advertising.
-By using the app, you consent to this ad tracking and data use. Learn more here:
+This app displays banner and interstitial ads, which may use cookies or identifiers to provide personalized advertising.  
+By using the app, you consent to these ad services. Learn more:  
 🔗 https://policies.google.com/technologies/ads
 
-##Data Policy
+## Data Policy
 
--We do not sell or share your personal data with any third parties.
-
--All collected data is used solely to improve your app experience.
-
--You can request deletion of your personal data or account at any time by contacting us at:
+- We do **not** sell or share your personal data with third parties.
+- Data is used only to improve your experience within the app.
+- You may request deletion of your data or account by contacting:  
 📧 Isit.tech@yahoo.com
 
-Last Updated: August 5, 2025
+_Last Updated: August 5, 2025_
